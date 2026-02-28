@@ -1,6 +1,6 @@
 cask "ghostedit" do
   version "7.5.1"
-  sha256 "71f192c8656cb829ec849bbddb95bbf7ca31f60095b4aba7c1b1fce9ed4dab3d"
+  sha256 "17d3eacd308ba37a81b4cf208d723932048b1e38af7ba4737c4a587dbcb82458"
 
   url "https://github.com/nareshnavinash/GhostEdit/releases/download/v#{version}/GhostEdit-macOS.dmg"
   name "GhostEdit"
